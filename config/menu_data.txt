@@ -1,0 +1,13 @@
+MAIN
+-i Welcome to PNG to text converter! v1.0.0
+-o Process files
+-o Change default directory path
+-o Exit
+SUB
+-i Type in the folder within the default path that you would like to process: 
+-o Cancel
+-o Exit
+SUB
+-i Type in the directory you want to set: 
+-o Cancel
+-o Exit
